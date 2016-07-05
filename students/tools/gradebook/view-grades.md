@@ -2,7 +2,7 @@
 
 ## Test Githook
 
-This the githook
+Test the githook
 
 ## Collocat alvo modo ut velit inplet admovitque
 
